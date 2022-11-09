@@ -1,6 +1,10 @@
 # codember
 
-<h3 align="center">👨‍💻 1 mes de retos con JavaScript • <a href="https://codember.dev">codember</a> 🚀</h3>
+<p align="center"> 
+  <img src='./images/codember.png'/>
+</p>
+
+<h3 align="center">👨‍💻 1 mes de retos con JavaScript • <a href="https://codember.dev">codember</a></h3>
 
 ## 2022
 
