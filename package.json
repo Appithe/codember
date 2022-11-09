@@ -1,0 +1,10 @@
+{
+  "name": "codember",
+  "version": "1.0.0",
+  "description": "solutions for codember.dev",
+  "main": "index.js",
+  "repository": "https://github.com/Appithe/codember.git",
+  "author": "appithe <joelaviles413@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
